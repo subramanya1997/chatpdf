@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "chat-pdf"
+version = "0.1.0"
+description = ""
+authors = ["subramanya1997 <subramanyanagabhushan@gmail.com>"]
+readme = "README.md"
+packages = [{include = "*.py"}]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+openai = "^1.63.2"
+chainlit = "^2.2.1"
+pydantic = ">=2.9.2,<2.10.0"
+python-dotenv = "^1.0.1"
+pinecone = "^6.0.1"
+tiktoken = "^0.9.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

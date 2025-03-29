@@ -1,0 +1,22 @@
+[{
+  "query": "What is the population of New York City",
+  "response": {
+    "queryRestatement": "The query is to determine the current population of New York City using the most recent and reliable data sources.",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "description": "Identify the latest official data source for New York City's population.",
+        "clarifyingQuestion": "Which official sources (e.g., U.S. Census Bureau, NYC government) provide the most recent population figures?",
+        "rationale": "Relying on official data ensures accuracy and credibility in the population figures."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Search for any recent updates, interim estimates, or news articles that might offer updated population data.",
+        "clarifyingQuestion": "Are there recent government press releases or credible news sources reporting updates to the NYC population?",
+        "rationale": "Since the census data may be outdated, additional updates could provide a more current estimate."
+      }
+    ],
+    "searchPlan": ["New York City population official data 2025", "latest NYC population update news"],
+    "notes": "This plan is designed to guide the search process for accurate and up-to-date population data for New York City. Further refinement may be necessary based on the results from the initial search queries."
+  }
+}]
