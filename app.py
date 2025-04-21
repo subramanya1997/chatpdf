@@ -115,7 +115,7 @@ async def understand_user_question(user_question: str, documents: str):
     
     
     response = await cl.make_async(client.beta.chat.completions.parse)(
-        model="gpt-4o",
+        model="gpt-4.1",
         messages=[
             {
                 "role": "system",
@@ -214,7 +214,7 @@ async def get_ai_response(system_prompt: str, query_plan: QueryPlan, documents: 
     messages.append({"role": "user", "content": structured_query})
     
     response = await cl.make_async(client.chat.completions.create)(
-        model="gpt-4o",
+        model="gpt-4.1",
         messages=messages,
         # reasoning_effort="low",
         stream=True
@@ -245,7 +245,8 @@ def process_documents(pdocs: dict, include_source: bool = True):
         document_format = """
         <Document>
         <Content>{content}</Content>
-        <Source>{source}</Source>
+        <FileName>{file_name}</FileName>
+        <URL>{url}</URL>
         </Document>
         """
     else:
@@ -320,9 +321,11 @@ async def main(message: cl.Message):
 
         async with cl.Step(name="Analyzing and generating response", show_input=False, type="llm") as step:
             sources_files = {}
+            urls = {}
             for _, metadata in all_documents.items():
                 if metadata["file_name"] not in sources_files:
                     sources_files[metadata["file_name"]] = []
+                    urls[metadata["file_name"]] = metadata["url"].split("#page=")[0]
                 sources_files[metadata["file_name"]].append(int(metadata['page_no']))
             
             logger.debug(f"Processing {len(sources_files)} source files")
@@ -335,16 +338,27 @@ async def main(message: cl.Message):
                     full_response += chunk.choices[0].delta.content
 
             # process and get only sources from full_response
-            file_names = list({match[1] for match in re.findall(r'\[(.*?)\]\((.*?):', full_response)})
+            # Old regex that incorrectly captures 'https' as file_name
+            # file_names = list({match[1] for match in re.findall(r'\[(.*?)\]\((.*?):', full_response)})
+            
+            # New regex that looks for references to files in the correct format
+            file_refs = re.findall(r'\[(.*?)\]\(([^:]+)', full_response)
+            file_names = []
+            for ref in file_refs:
+                ref_text = ref[0]
+                if ref_text in sources_files:
+                    file_names.append(ref_text)
+            
             logger.info(f"Referenced files in response: {file_names}")
 
             msg.elements = [
                 cl.File(
-                    name=f"{file_name}: {', '.join(map(str, sources_files.get(file_name, [])))}",
-                    content=f"Page Number: {', '.join(map(str, sources_files.get(file_name, [])))}",
+                    name=f"{file_name}",
+                    url=urls[file_name],
                     type="application/pdf"
                 )
-                for file_name in file_names
+                for file_name in list(set(file_names))
+                if file_name in urls
             ]
             await step.update()
         
