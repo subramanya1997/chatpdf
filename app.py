@@ -167,7 +167,7 @@ async def analyze_search_results(dense_embeddings: List[float], sparse_embedding
     logger.debug(f"Dense embeddings shape: {len(dense_embeddings)}")
     logger.debug(f"Sparse embeddings: {sparse_embeddings}")
 
-    hdense, hsparse = hybrid_score_norm(dense_embeddings, sparse_embeddings, alpha=0.75)
+    hdense, hsparse = hybrid_score_norm(dense_embeddings, sparse_embeddings, alpha=0.6)
     logger.debug("Hybrid scores computed")
 
     responses = index.query(
@@ -180,7 +180,6 @@ async def analyze_search_results(dense_embeddings: List[float], sparse_embedding
     logger.info(f"Retrieved {len(responses['matches'])} matches from index")
 
     documents = {}
-    # logger.info(f"Responses: {responses}")
     for response in responses['matches']:
         if response['score'] > 1:
             documents[response['id']] = response['metadata']

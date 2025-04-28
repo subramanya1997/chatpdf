@@ -1,0 +1,378 @@
+2025-04-27 18:46:52 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:46:52 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:46:52 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:46:52 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:46:52 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:46:52 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:46:52 [chainlit] [INFO] [server.py:92] Your app is available at http://localhost:7860
+2025-04-27 18:46:53 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:46:53 [app.py] [INFO] [app.py:68] Session ID: 1260bfd8-76b5-49ba-9854-54ea553757d9
+2025-04-27 18:46:53 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:46:53 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:46:53 [app.py] [INFO] [app.py:68] Session ID: 1f4c1ac5-8a88-4af1-927d-ec25f40bad5c
+2025-04-27 18:47:19 [app.py] [INFO] [app.py:271] Processing new message: replace door switch...
+2025-04-27 18:47:20 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:47:21 [app.py] [INFO] [app.py:180] Retrieved 0 matches from index
+2025-04-27 18:47:21 [app.py] [INFO] [app.py:287] Number of tokens in sources: 11
+2025-04-27 18:48:50 [watchfiles.main] [INFO] [main.py:297] 1 change detected
+2025-04-27 18:48:50 [chainlit] [INFO] [server.py:113] File modified: app.py. Reloading app...
+2025-04-27 18:48:50 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:48:50 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:48:50 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:48:50 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:48:50 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:48:50 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:48:50 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:48:50 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:48:50 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:48:50 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:48:50 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:48:50 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:48:51 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:48:51 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:48:51 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:48:51 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:48:51 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:48:51 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:48:51 [app.py] [INFO] [app.py:68] Session ID: a2ce6af7-7162-4a5e-8866-354baa0fc572
+2025-04-27 18:48:51 [app.py] [INFO] [app.py:68] Session ID: a2ce6af7-7162-4a5e-8866-354baa0fc572
+2025-04-27 18:48:51 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:48:51 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:48:51 [app.py] [INFO] [app.py:68] Session ID: 42bd7a64-b8fe-4a89-ab1f-8e5c3adeca56
+2025-04-27 18:48:51 [app.py] [INFO] [app.py:68] Session ID: 42bd7a64-b8fe-4a89-ab1f-8e5c3adeca56
+2025-04-27 18:48:57 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:48:57 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:48:57 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:48:57 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:48:57 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:48:57 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:48:57 [chainlit] [INFO] [server.py:92] Your app is available at http://localhost:7860
+2025-04-27 18:48:59 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:48:59 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:48:59 [app.py] [INFO] [app.py:68] Session ID: 6dd330d1-186b-4f66-8766-5869eddf3330
+2025-04-27 18:49:00 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:49:00 [app.py] [INFO] [app.py:68] Session ID: a2ce6af7-7162-4a5e-8866-354baa0fc572
+2025-04-27 18:49:01 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:49:01 [app.py] [INFO] [app.py:68] Session ID: 42bd7a64-b8fe-4a89-ab1f-8e5c3adeca56
+2025-04-27 18:49:09 [app.py] [INFO] [app.py:271] Processing new message: replace switch type...
+2025-04-27 18:49:12 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:49:13 [app.py] [INFO] [app.py:180] Retrieved 0 matches from index
+2025-04-27 18:49:13 [app.py] [INFO] [app.py:287] Number of tokens in sources: 11
+2025-04-27 18:49:17 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:49:17 [app.py] [INFO] [app.py:136] Query plan generated successfully
+2025-04-27 18:49:17 [app.py] [INFO] [app.py:290] Generating embeddings
+2025-04-27 18:49:18 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:49:19 [app.py] [INFO] [app.py:298] Processing search step: SOP for replacing [specific switch type] in Walmart equipment
+2025-04-27 18:49:19 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:49:19 [app.py] [INFO] [app.py:298] Processing search step: Parts catalog for [switch type/model] replacement
+2025-04-27 18:49:19 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:49:19 [app.py] [INFO] [app.py:298] Processing search step: Safety procedure for switch replacement and lockout/tagout
+2025-04-27 18:49:19 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:49:19 [app.py] [INFO] [app.py:305] Number of tokens in sources: 21274
+2025-04-27 18:49:20 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:49:25 [app.py] [INFO] [app.py:351] Referenced files in response: []
+2025-04-27 18:49:25 [app.py] [INFO] [app.py:375] Chat history updated, now contains 2 messages
+2025-04-27 18:49:25 [app.py] [INFO] [app.py:376] Sending final response
+2025-04-27 18:50:20 [watchfiles.main] [INFO] [main.py:297] 1 change detected
+2025-04-27 18:50:20 [chainlit] [INFO] [server.py:113] File modified: app.py. Reloading app...
+2025-04-27 18:50:20 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:50:20 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:50:20 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:50:20 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:50:20 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:50:20 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:50:20 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:50:20 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:50:20 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:50:20 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:50:20 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:50:20 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:50:21 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:50:21 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:50:22 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:50:22 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:50:22 [app.py] [INFO] [app.py:68] Session ID: a4786ad0-3c11-4783-9ed2-c024bb53a35c
+2025-04-27 18:50:22 [app.py] [INFO] [app.py:68] Session ID: a4786ad0-3c11-4783-9ed2-c024bb53a35c
+2025-04-27 18:50:38 [app.py] [INFO] [app.py:271] Processing new message: replace switch typereplace switch type...
+2025-04-27 18:50:38 [app.py] [INFO] [app.py:271] Processing new message: replace switch typereplace switch type...
+2025-04-27 18:50:39 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:50:39 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:50:39 [app.py] [INFO] [app.py:180] Retrieved 0 matches from index
+2025-04-27 18:50:39 [app.py] [INFO] [app.py:180] Retrieved 0 matches from index
+2025-04-27 18:50:39 [app.py] [INFO] [app.py:289] Number of tokens in sources: 11
+2025-04-27 18:50:39 [app.py] [INFO] [app.py:289] Number of tokens in sources: 11
+2025-04-27 18:50:48 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:50:48 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:50:48 [app.py] [INFO] [app.py:136] Query plan generated successfully
+2025-04-27 18:50:48 [app.py] [INFO] [app.py:136] Query plan generated successfully
+2025-04-27 18:50:48 [app.py] [INFO] [app.py:292] Generating embeddings
+2025-04-27 18:50:48 [app.py] [INFO] [app.py:292] Generating embeddings
+2025-04-27 18:50:49 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:50:49 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:300] Processing search step: Equipment manual: switch replacement section
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:300] Processing search step: Equipment manual: switch replacement section
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:300] Processing search step: Parts list: switch model and part number
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:300] Processing search step: Parts list: switch model and part number
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:300] Processing search step: SOP: switch replacement procedure
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:300] Processing search step: SOP: switch replacement procedure
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:300] Processing search step: Inventory system: switch part availability
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:300] Processing search step: Inventory system: switch part availability
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:307] Number of tokens in sources: 36568
+2025-04-27 18:50:49 [app.py] [INFO] [app.py:307] Number of tokens in sources: 36568
+2025-04-27 18:50:51 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:50:51 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:50:55 [app.py] [INFO] [app.py:353] Referenced files in response: []
+2025-04-27 18:50:55 [app.py] [INFO] [app.py:353] Referenced files in response: []
+2025-04-27 18:50:55 [app.py] [INFO] [app.py:377] Chat history updated, now contains 2 messages
+2025-04-27 18:50:55 [app.py] [INFO] [app.py:377] Chat history updated, now contains 2 messages
+2025-04-27 18:50:55 [app.py] [INFO] [app.py:378] Sending final response
+2025-04-27 18:50:55 [app.py] [INFO] [app.py:378] Sending final response
+2025-04-27 18:50:59 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:50:59 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:50:59 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:50:59 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:50:59 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:50:59 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:50:59 [chainlit] [INFO] [server.py:92] Your app is available at http://localhost:7860
+2025-04-27 18:51:00 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:51:00 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:51:00 [app.py] [INFO] [app.py:68] Session ID: 0e04bb63-20d7-4d8b-8e86-08322ff2028f
+2025-04-27 18:51:01 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:51:01 [app.py] [INFO] [app.py:68] Session ID: a4786ad0-3c11-4783-9ed2-c024bb53a35c
+2025-04-27 18:51:18 [app.py] [INFO] [app.py:271] Processing new message: replace switch type...
+2025-04-27 18:51:21 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:51:22 [app.py] [INFO] [app.py:180] Retrieved 0 matches from index
+2025-04-27 18:51:22 [app.py] [INFO] [app.py:289] Number of tokens in sources: 11
+2025-04-27 18:51:28 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:51:28 [app.py] [INFO] [app.py:136] Query plan generated successfully
+2025-04-27 18:51:28 [app.py] [INFO] [app.py:292] Generating embeddings
+2025-04-27 18:51:28 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:51:28 [app.py] [INFO] [app.py:300] Processing search step: SOP for switch replacement in [equipment/system name]
+2025-04-27 18:51:29 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:51:29 [app.py] [INFO] [app.py:300] Processing search step: Equipment manual: switch specifications section
+2025-04-27 18:51:29 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:51:29 [app.py] [INFO] [app.py:300] Processing search step: Approved parts list for [equipment/system name] switches
+2025-04-27 18:51:29 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:51:29 [app.py] [INFO] [app.py:300] Processing search step: Lockout/tagout and switch installation safety procedures
+2025-04-27 18:51:29 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:51:29 [app.py] [INFO] [app.py:307] Number of tokens in sources: 30313
+2025-04-27 18:51:30 [watchfiles.main] [INFO] [main.py:297] 1 change detected
+2025-04-27 18:51:30 [chainlit] [INFO] [server.py:113] File modified: app.py. Reloading app...
+2025-04-27 18:51:30 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:51:30 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:51:30 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:51:30 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:51:30 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:51:30 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:51:30 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:51:30 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:51:30 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:51:30 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:51:30 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:51:30 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:51:31 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:51:31 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:51:36 [app.py] [INFO] [app.py:353] Referenced files in response: []
+2025-04-27 18:51:36 [app.py] [INFO] [app.py:353] Referenced files in response: []
+2025-04-27 18:51:36 [app.py] [INFO] [app.py:377] Chat history updated, now contains 2 messages
+2025-04-27 18:51:36 [app.py] [INFO] [app.py:377] Chat history updated, now contains 2 messages
+2025-04-27 18:51:36 [app.py] [INFO] [app.py:378] Sending final response
+2025-04-27 18:51:36 [app.py] [INFO] [app.py:378] Sending final response
+2025-04-27 18:51:36 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:51:36 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:51:36 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:51:36 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:51:36 [app.py] [INFO] [app.py:68] Session ID: ae4bdd08-9e84-4d1e-90c6-83ad4a488eac
+2025-04-27 18:51:36 [app.py] [INFO] [app.py:68] Session ID: ae4bdd08-9e84-4d1e-90c6-83ad4a488eac
+2025-04-27 18:51:45 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:51:45 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:51:45 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:51:45 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:51:45 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:51:45 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:51:45 [chainlit] [INFO] [server.py:92] Your app is available at http://localhost:7860
+2025-04-27 18:51:47 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:51:47 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:51:47 [app.py] [INFO] [app.py:68] Session ID: 7fd51a87-a815-42c6-840d-f1559b2736b7
+2025-04-27 18:51:47 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:51:47 [app.py] [INFO] [app.py:68] Session ID: ae4bdd08-9e84-4d1e-90c6-83ad4a488eac
+2025-04-27 18:51:58 [app.py] [INFO] [app.py:271] Processing new message: replace switch type...
+2025-04-27 18:51:58 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:51:58 [app.py] [INFO] [app.py:284] Dense embeddings: [[-0.04985995590686798, -0.0063996692188084126, -0.08346213400363922, -0.06937763839960098, -0.029736259952187538, 0.017271270975470543, -0.017929522320628166, 0.029443703591823578, 0.01096041314303875, -0.05959789827466011, 0.009643909521400928, -0.04605672135949135, 0.030195990577340126, 0.11468207091093063, 0.0003931225510314107, -0.025535985827445984, 0.049692779779434204, -0.016195081174373627, -0.0014562512515112758, 0.05148991197347641, -0.07347343116998672, -0.0020518123637884855, 0.020123694092035294, -5.999689892632887e-05, -0.06348472088575363, 0.05303627997636795, -0.03621429204940796, 0.018169837072491646, 0.002503707306459546, 0.00802440196275711, 0.02367616444826126, -0.045262642204761505, 0.047268740832805634, -0.0011780615895986557, 0.005237280391156673, -0.007846778258681297, 0.005064880941063166, -0.02183723822236061, 0.022276073694229126, -0.020207282155752182, 0.03895178437232971, -0.044677529484033585, 0.047477710992097855, -0.02850334346294403, -0.003239016281440854, 0.0770258978009224, -0.08270984888076782, 0.03957869112491608, -0.07255396246910095, 0.017271270975470543, 0.06252346187829971, -0.08885353058576584, -0.005370498169213533, 0.0725957602262497, 0.059681486338377, -0.0002537011750973761, -0.004913378972560167, 0.005976507440209389, 0.02867051772773266, 0.018462393432855606, 0.0011878570076078176, -0.01329041551798582, -0.023258225992321968, 0.021178986877202988, -0.01941320113837719, -0.001225732616148889, -0.06519826501607895, 0.09336725622415543, -0.005835453514009714, 0.013321761041879654, -0.024867286905646324, 0.03832487761974335, -0.004819342866539955, -0.011357453651726246, -0.0044196899980306625, 0.08045298606157303, 0.006848952267318964, -0.0044614835642278194, 0.03728003427386284, 0.07598105072975159, -0.05165708437561989, 0.008724447339773178, -0.03284989297389984, -0.0017892953474074602, -0.028064509853720665, 0.004641719162464142, -0.06001583859324455, -0.04889869689941406, -0.04538802057504654, -0.03905626758933067, -0.04994354024529457, -0.03140800818800926, -0.015421897172927856, -0.0087453443557024, 0.03330962732434273, -0.021137192845344543, -0.05332883447408676, -0.02125212550163269, -0.030091505497694016, 0.06055915728211403, 0.0344589538872242, -0.023822441697120667, 0.046014927327632904, 0.033560387790203094, -0.009450613521039486, 0.022777598351240158, 0.03932792693376541, 0.034814201295375824, -0.0548752062022686, 0.01829521730542183, -0.04568057879805565, -0.0178668312728405, -0.03180504962801933, 0.035106755793094635, -0.029046662151813507, -0.08208294212818146, 0.06532364338636398, -0.07623181492090225, 0.02242235094308853, -0.06745512783527374, -0.0029412356670945883, -0.013248621486127377, 0.09077604115009308, -0.0758974626660347, -0.05316166207194328, -0.02116853930056095, -0.0028524240478873253, 0.006410117726773024, -0.011555974371731281, -0.02357167936861515, -0.00709971459582448, -0.04076981171965599, -0.06795664876699448, 0.03542020916938782, -0.0854264423251152, 0.046432867646217346, -0.03834577277302742, 0.01608014851808548, -0.049985334277153015, 0.10431722551584244, -0.023258225992321968, -0.02714504674077034, -0.0016273445216938853, -0.013447142206132412, -0.014617366716265678, 0.01791907474398613, 0.024491142481565475, -0.0207192562520504, -0.02936011552810669, 0.030551237985491753, -0.02164916694164276, -0.0015398388495668769, -0.020698359236121178, 0.04093698784708977, -0.03924433887004852, -0.03186774253845215, 0.037906941026449203, 0.012882926501333714, -0.013499383814632893, 0.013018756173551083, 0.006070543546229601, -0.062147319316864014, -0.026121098548173904, -0.06427880376577377, -0.05391394719481468, -0.016947370022535324, 0.015129340812563896, -0.020552080124616623, -0.07468544691801071, 0.10849659889936447, -0.002527216449379921, 0.0009299111552536488, 0.0033278281334787607, 0.005140632390975952, 0.0005697665037587285, 0.01434570737183094, -0.0427132211625576, -0.11008475720882416, 0.01011931337416172, 0.06536544114351273, 0.036757610738277435, 0.06837458908557892, 0.006289960816502571, -0.028127199038863182, -0.011618664488196373, -0.08530106395483017, 0.008296061307191849, 0.052200403064489365, 0.005730969365686178, -0.06269063800573349, -0.027688365429639816, 0.0703388974070549, -0.04856434836983681, -0.013969563879072666, 0.05533493682742119, -0.03391563519835472, 0.04221169650554657, 0.03222298622131348, -0.0036517297849059105, -0.049692779779434204, -0.028168993070721626, -0.05612901970744133, 0.06837458908557892, 0.012673957273364067, -0.04405062273144722, 0.029046662151813507, -0.059848662465810776, 0.0019329612841829658, -0.009575994685292244, -0.056839510798454285, -0.018963918089866638, -0.05245116725564003, -0.053287044167518616, 0.017553377896547318, 0.020970018580555916, -0.022234279662370682, 0.04141761362552643, -0.034145500510931015, 0.012820235453546047, 0.019047506153583527, 0.004351775161921978, 0.03487689048051834, 0.04492828994989395, -0.013415796682238579, -0.0442177951335907, 0.048062823712825775, 0.047770265489816666, -0.008975209668278694, -0.02781374566257, -0.004952560178935528, -0.0008959536789916456, 0.0463910736143589, 0.0012263855896890163, -0.09035810828208923, 0.013363554142415524, 0.027667468413710594, 0.01549503579735756, -0.11718969792127609, 0.013729250058531761, -0.03245285525918007, -0.14560945332050323, -0.007930365391075611, -0.018232528120279312, -0.015077098272740841, -0.0210953988134861, 0.0377606600522995, 0.021962620317935944, -0.0033304402604699135, -0.03439626470208168, 0.0390353724360466, -0.04325653985142708, 0.09119398146867752, 0.0173026155680418, -0.02210889756679535, 0.010312610305845737, -0.026873387396335602, 0.07861406356096268, 0.050863005220890045, -0.023592576384544373, -0.019559478387236595, -0.03255733847618103, -0.05729924142360687, 0.08876994252204895, 0.04781205952167511, -0.09955273568630219, 0.01728171855211258, 0.1090817078948021, 0.01879674382507801, 0.010579044930636883, -0.07974249124526978, -0.018869882449507713, 0.05316166207194328, 0.013948666863143444, -0.018420599400997162, -0.04480290785431862, 0.009069245308637619, 0.09854968637228012, 0.031157247722148895, 0.012224674224853516, 0.054833412170410156, -0.028712311759591103, -0.07042248547077179, -0.000930564187001437, 0.013980012387037277, 0.010114089585840702, 0.06536544114351273, -0.012966513633728027, -0.007334804628044367, 0.09386878460645676, -0.07000454515218735, -0.068165622651577, -0.009889448061585426, -0.011608216911554337, -0.025577779859304428, -0.08968940377235413, 0.06737153977155685, -0.03640236333012581, -0.02501356415450573, 0.009863327257335186, -0.007710948586463928, 0.05399753525853157, 0.08488312363624573, -0.027897333726286888, 0.038868196308612823, 0.0743928924202919, 0.009544650092720985, -0.07430930435657501, 0.0031005744822323322, 0.008593841455876827, 0.0016482413047924638, -0.05917996168136597, -0.07623181492090225, 0.019935622811317444, -0.02365526743233204, 0.0004231618077028543, -0.04672542214393616, -0.009189402684569359, -0.024303071200847626, 0.015390551649034023, -0.08609513938426971, 0.0442177951335907, -0.04580596089363098, 0.010949964635074139, -0.04802102968096733, -0.02173275500535965, -0.014659160748124123, -0.056672338396310806, 0.018619120121002197, 0.06507287919521332, 0.0020217730198055506, -0.007909469306468964, -0.042441561818122864, 0.03951599821448326, 0.04877331480383873, -0.05077941715717316, 0.026497242972254753, -0.04768667742609978, 0.039766762405633926, -0.05178246647119522, 0.0036020996049046516, 0.022067105397582054, -0.014356155879795551, -0.00028880141326226294, 0.04001752287149429, -0.07447648048400879, 0.04517905414104462, -0.01517113484442234, -0.03920254483819008, -0.019444545730948448, 0.019747551530599594, 0.01711454428732395, 0.03138711303472519, 0.023529885336756706, 0.040999677032232285, 0.01433525886386633, -0.07623181492090225, 0.029610877856612206, -0.02858693152666092, 0.009769290685653687, 0.05872023105621338, 0.040790706872940063, 0.11401337385177612, -0.08166500180959702, 0.0219208262860775, -0.029004868119955063, 0.06879252940416336, -0.006702674087136984, -0.015515932813286781, 0.06085171177983284, -0.02589123323559761, 0.02848244644701481, -0.026016615331172943, 0.024282174184918404, 0.04114595428109169, -0.022088002413511276, -0.0146382637321949, 0.06904328614473343, 0.004725306760519743, 0.04074891656637192, 0.029631774872541428, 0.013374002650380135, 0.04214900732040405, -0.017260821536183357, -0.0942867174744606, -0.07836329936981201, 0.023320917040109634, 0.03111545369029045, 0.0018650464480742812, -0.042629633098840714, -0.055585697293281555, 0.06423700600862503, -0.023341814056038857, -0.000791469297837466, -0.026330068707466125, 0.02549419365823269, 0.024407554417848587, 0.04354909807443619, 0.04705977067351341, -0.009586443193256855, -0.008959537371993065, 0.03151249513030052, -0.02240145392715931, -0.04605672135949135, 0.005292134825140238, -0.023738855496048927, 0.07794535905122757, 0.015223376452922821, -0.028733208775520325, 0.023258225992321968, -0.06331754475831985, 0.056839510798454285, -0.052994485944509506, 0.09846609830856323, 0.03176325559616089, -0.011420144699513912, -0.042650531977415085, -0.07008813321590424, -0.02599571831524372, -0.0005446249269880354, 0.03554559126496315, 0.022756701335310936, -0.08751612901687622, -0.045555196702480316, 0.024700110778212547, 0.03987124562263489, -0.006974333431571722, -0.04417600482702255, 0.025744955986738205, 0.1060725599527359, -0.08404725044965744, 0.02319553680717945, 0.003508063731715083, -0.0843815952539444, 0.006948212161660194, 0.09169550985097885, 0.04756129905581474, 0.027395809069275856, 0.0042760237120091915, 0.05178246647119522, 0.021502889692783356, -0.013551626354455948, 0.07418391853570938, 0.03677850589156151, 0.025076255202293396, -0.04672542214393616, 0.033560387790203094, -0.09528976678848267, -0.06152041256427765, -0.05111376568675041, 0.014983062632381916, -0.020834188908338547, 0.017219029366970062, -0.031345319002866745, 0.03132442384958267, -0.012088844552636147, 0.04848076030611992, 0.06482212245464325, -0.007167629431933165, 0.04956739768385887, -0.006681777071207762, 0.05416471138596535, 0.013541177846491337, 0.053454216569662094, 0.025327017530798912, -0.014178533107042313, 0.04981816187500954, 0.05332883447408676, 0.022171588614583015, 0.03159608319401741, -0.06277422606945038, -0.024010514840483665, 0.03592173382639885, 0.052869103848934174, 0.0020256913267076015, -0.011085794307291508, 0.009220748208463192, 0.05767538771033287, 0.005851126275956631, -0.004111460875719786, -0.02587033621966839, -0.01433525886386633, -0.03157518431544304, 0.018786294385790825, -0.07790356874465942, 0.03905626758933067, 0.14945447444915771, -0.013635213486850262, -0.0013569911243394017, -0.13198469579219818, 0.0009775821818038821, 0.002430568216368556, 0.01549503579735756, -0.007193750701844692, -0.026831593364477158, 0.026037512347102165, -0.08312778919935226, -0.008661756291985512, -0.009790187701582909, 0.00820202473551035, -0.013990460895001888, 0.04768667742609978, -0.00375621416606009, -0.042357973754405975, 0.051155559718608856, 0.04296398535370827, 0.005715296603739262, 0.0414385125041008, 0.01834746077656746, -0.030739309266209602, -0.05583646148443222, -0.02162826992571354, -0.05353780463337898]]
+2025-04-27 18:51:58 [app.py] [INFO] [app.py:285] Sparse embeddings: [{'vector_type': sparse, 'sparse_values': [1.0, 1.0, 1.0], 'sparse_indices': [1421428866, 2045916435, 4217629790]}]
+2025-04-27 18:51:59 [app.py] [INFO] [app.py:180] Retrieved 0 matches from index
+2025-04-27 18:51:59 [app.py] [INFO] [app.py:289] Number of tokens in sources: 11
+2025-04-27 18:52:08 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:52:08 [app.py] [INFO] [app.py:136] Query plan generated successfully
+2025-04-27 18:52:08 [app.py] [INFO] [app.py:292] Generating embeddings
+2025-04-27 18:52:08 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 18:52:08 [app.py] [INFO] [app.py:300] Processing search step: Switch replacement procedures by type and model in Walmart maintenance manuals
+2025-04-27 18:52:08 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:52:08 [app.py] [INFO] [app.py:300] Processing search step: Walmart SOP for electrical switch replacement
+2025-04-27 18:52:08 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:52:08 [app.py] [INFO] [app.py:300] Processing search step: Required tools and parts list for switch replacement
+2025-04-27 18:52:08 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:52:08 [app.py] [INFO] [app.py:300] Processing search step: Safety protocols for switch replacement in Walmart facilities
+2025-04-27 18:52:09 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 18:52:09 [app.py] [INFO] [app.py:307] Number of tokens in sources: 22384
+2025-04-27 18:52:10 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 18:52:12 [app.py] [INFO] [app.py:353] Referenced files in response: []
+2025-04-27 18:52:12 [app.py] [INFO] [app.py:377] Chat history updated, now contains 2 messages
+2025-04-27 18:52:12 [app.py] [INFO] [app.py:378] Sending final response
+2025-04-27 18:52:37 [watchfiles.main] [INFO] [main.py:297] 1 change detected
+2025-04-27 18:52:37 [chainlit] [INFO] [server.py:113] File modified: app.py. Reloading app...
+2025-04-27 18:52:37 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:52:37 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 18:52:37 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:52:37 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 18:52:37 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:52:37 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 18:52:37 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:52:37 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 18:52:37 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:52:37 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 18:52:37 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:52:37 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 18:52:38 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:52:38 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 18:52:38 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:52:38 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 18:52:38 [app.py] [INFO] [app.py:68] Session ID: ea9a1c1b-505d-480a-a972-81a2495be87d
+2025-04-27 18:52:38 [app.py] [INFO] [app.py:68] Session ID: ea9a1c1b-505d-480a-a972-81a2495be87d
+2025-04-27 19:11:03 [root] [INFO] [logging_config.py:53] Logging system initialized
+2025-04-27 19:11:03 [app.py] [INFO] [app.py:22] Environment variables loaded
+2025-04-27 19:11:03 [app.py] [INFO] [app.py:25] OpenAI client initialized
+2025-04-27 19:11:03 [app.py] [INFO] [app.py:28] Pinecone client initialized
+2025-04-27 19:11:03 [app.py] [INFO] [app.py:32] Pinecone index initialized
+2025-04-27 19:11:03 [app.py] [INFO] [app.py:36] Managers initialized
+2025-04-27 19:11:03 [chainlit] [INFO] [server.py:92] Your app is available at http://localhost:7860
+2025-04-27 19:11:04 [chainlit] [WARNING] [markdown.py:50] Translated markdown file for en-US not found. Defaulting to chainlit.md.
+2025-04-27 19:11:04 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 19:11:04 [app.py] [INFO] [app.py:68] Session ID: 99dd635c-7da5-4440-95f3-ce0b7c35fab1
+2025-04-27 19:11:08 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 19:11:08 [app.py] [INFO] [app.py:68] Session ID: ea9a1c1b-505d-480a-a972-81a2495be87d
+2025-04-27 19:11:25 [app.py] [INFO] [app.py:271] Processing new message: replace switch type...
+2025-04-27 19:11:32 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 19:11:33 [app.py] [INFO] [app.py:180] Retrieved 50 matches from index
+2025-04-27 19:11:33 [app.py] [INFO] [app.py:287] Number of tokens in sources: 6275
+2025-04-27 19:11:48 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 19:11:48 [app.py] [INFO] [app.py:136] Query plan generated successfully
+2025-04-27 19:11:48 [app.py] [INFO] [app.py:290] Generating embeddings
+2025-04-27 19:11:48 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:298] Processing search step: switch replacement procedures by switch type (power, membrane, door, pressure, toggle, key, etc.)
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:298] Processing search step: equipment manual section for switch location and access
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:298] Processing search step: safety procedures for de-energizing equipment before service
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:298] Processing search step: panel or cover removal instructions for switch access
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:298] Processing search step: installation and wiring steps for specific switch type
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:298] Processing search step: testing procedures for new switch installation
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:11:49 [app.py] [INFO] [app.py:305] Number of tokens in sources: 43391
+2025-04-27 19:11:52 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 19:11:53 [app.py] [INFO] [app.py:351] Referenced files in response: []
+2025-04-27 19:11:53 [app.py] [INFO] [app.py:375] Chat history updated, now contains 2 messages
+2025-04-27 19:11:53 [app.py] [INFO] [app.py:376] Sending final response
+2025-04-27 19:11:58 [app.py] [INFO] [app.py:271] Processing new message: 5...
+2025-04-27 19:11:59 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 19:11:59 [app.py] [INFO] [app.py:180] Retrieved 50 matches from index
+2025-04-27 19:11:59 [app.py] [INFO] [app.py:287] Number of tokens in sources: 4244
+2025-04-27 19:12:04 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 19:12:04 [app.py] [INFO] [app.py:136] Query plan generated successfully
+2025-04-27 19:12:04 [app.py] [INFO] [app.py:290] Generating embeddings
+2025-04-27 19:12:04 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 19:12:04 [app.py] [INFO] [app.py:298] Processing search step: DESMON Blast Chiller switch types and locations in service manual
+2025-04-27 19:12:04 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:12:04 [app.py] [INFO] [app.py:298] Processing search step: DESMON Blast Chiller replacement switch part numbers by model
+2025-04-27 19:12:05 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:12:05 [app.py] [INFO] [app.py:298] Processing search step: DESMON Blast Chiller switch replacement procedure in service manual
+2025-04-27 19:12:05 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:12:05 [app.py] [INFO] [app.py:305] Number of tokens in sources: 8274
+2025-04-27 19:12:05 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 19:12:15 [app.py] [INFO] [app.py:351] Referenced files in response: []
+2025-04-27 19:12:15 [app.py] [INFO] [app.py:375] Chat history updated, now contains 4 messages
+2025-04-27 19:12:15 [app.py] [INFO] [app.py:376] Sending final response
+2025-04-27 19:12:40 [app.py] [INFO] [app.py:60] New chat session started
+2025-04-27 19:12:40 [app.py] [INFO] [app.py:68] Session ID: b11a2f02-8e07-4094-bdbd-fbc315dfe07e
+2025-04-27 19:12:44 [app.py] [INFO] [app.py:271] Processing new message: replace switch...
+2025-04-27 19:12:45 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 19:12:45 [app.py] [INFO] [app.py:180] Retrieved 50 matches from index
+2025-04-27 19:12:45 [app.py] [INFO] [app.py:287] Number of tokens in sources: 6250
+2025-04-27 19:13:02 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 19:13:02 [app.py] [INFO] [app.py:136] Query plan generated successfully
+2025-04-27 19:13:02 [app.py] [INFO] [app.py:290] Generating embeddings
+2025-04-27 19:13:03 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 19:13:03 [app.py] [INFO] [app.py:298] Processing search step: General switch replacement procedure in service manuals
+2025-04-27 19:13:03 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:03 [app.py] [INFO] [app.py:298] Processing search step: Safety precautions for switch replacement
+2025-04-27 19:13:03 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:03 [app.py] [INFO] [app.py:298] Processing search step: Panel and cover removal instructions for specific equipment
+2025-04-27 19:13:03 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:03 [app.py] [INFO] [app.py:298] Processing search step: Wiring disconnection and labeling procedures
+2025-04-27 19:13:03 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:03 [app.py] [INFO] [app.py:298] Processing search step: Switch mounting hardware types and removal steps
+2025-04-27 19:13:04 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:04 [app.py] [INFO] [app.py:298] Processing search step: Switch installation and wiring reconnection steps
+2025-04-27 19:13:04 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:04 [app.py] [INFO] [app.py:298] Processing search step: Panel reassembly and power restoration procedures
+2025-04-27 19:13:04 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:04 [app.py] [INFO] [app.py:298] Processing search step: Switch testing and verification procedures
+2025-04-27 19:13:04 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:04 [app.py] [INFO] [app.py:305] Number of tokens in sources: 46801
+2025-04-27 19:13:06 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 19:13:09 [app.py] [INFO] [app.py:351] Referenced files in response: []
+2025-04-27 19:13:09 [app.py] [INFO] [app.py:375] Chat history updated, now contains 2 messages
+2025-04-27 19:13:09 [app.py] [INFO] [app.py:376] Sending final response
+2025-04-27 19:13:11 [app.py] [INFO] [app.py:271] Processing new message: 8...
+2025-04-27 19:13:11 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 19:13:12 [app.py] [INFO] [app.py:180] Retrieved 50 matches from index
+2025-04-27 19:13:12 [app.py] [INFO] [app.py:287] Number of tokens in sources: 885
+2025-04-27 19:13:15 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 19:13:15 [app.py] [INFO] [app.py:136] Query plan generated successfully
+2025-04-27 19:13:15 [app.py] [INFO] [app.py:290] Generating embeddings
+2025-04-27 19:13:16 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 19:13:16 [app.py] [INFO] [app.py:298] Processing search step: CHALLENGER CL12 switch types and locations
+2025-04-27 19:13:16 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:16 [app.py] [INFO] [app.py:298] Processing search step: CHALLENGER CL12 replacement switch part numbers
+2025-04-27 19:13:16 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:16 [app.py] [INFO] [app.py:298] Processing search step: CHALLENGER CL12 service manual switch replacement procedure
+2025-04-27 19:13:16 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:16 [app.py] [INFO] [app.py:298] Processing search step: CHALLENGER CL12 post-repair testing procedure
+2025-04-27 19:13:16 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:13:16 [app.py] [INFO] [app.py:305] Number of tokens in sources: 27426
+2025-04-27 19:13:18 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 19:13:29 [app.py] [INFO] [app.py:351] Referenced files in response: []
+2025-04-27 19:13:29 [app.py] [INFO] [app.py:375] Chat history updated, now contains 4 messages
+2025-04-27 19:13:29 [app.py] [INFO] [app.py:376] Sending final response
+2025-04-27 19:15:29 [app.py] [INFO] [app.py:271] Processing new message: now tell me about GENIE GS-2632GENIE GS-2632...
+2025-04-27 19:15:29 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 19:15:30 [app.py] [INFO] [app.py:180] Retrieved 50 matches from index
+2025-04-27 19:15:30 [app.py] [INFO] [app.py:287] Number of tokens in sources: 6120
+2025-04-27 19:15:47 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 19:15:47 [app.py] [INFO] [app.py:136] Query plan generated successfully
+2025-04-27 19:15:47 [app.py] [INFO] [app.py:290] Generating embeddings
+2025-04-27 19:15:48 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-27 19:15:48 [app.py] [INFO] [app.py:298] Processing search step: GENIE GS-2632 switch types and locations (service manual section: Electrical Components)
+2025-04-27 19:15:48 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:15:48 [app.py] [INFO] [app.py:298] Processing search step: GENIE GS-2632 switch replacement procedure (service manual section: Component Replacement)
+2025-04-27 19:15:48 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:15:48 [app.py] [INFO] [app.py:298] Processing search step: GENIE GS-2632 replacement switch part numbers (parts manual or service bulletin)
+2025-04-27 19:15:48 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:15:48 [app.py] [INFO] [app.py:298] Processing search step: GENIE GS-2632 post-replacement testing and safety checks (service manual: Testing/Commissioning section)
+2025-04-27 19:15:48 [app.py] [INFO] [app.py:180] Retrieved 15 matches from index
+2025-04-27 19:15:48 [app.py] [INFO] [app.py:305] Number of tokens in sources: 17675
+2025-04-27 19:15:49 [httpx] [INFO] [_client.py:1025] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 19:16:13 [app.py] [INFO] [app.py:351] Referenced files in response: []
+2025-04-27 19:16:13 [app.py] [INFO] [app.py:375] Chat history updated, now contains 6 messages
+2025-04-27 19:16:13 [app.py] [INFO] [app.py:376] Sending final response
