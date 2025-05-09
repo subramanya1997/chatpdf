@@ -53,5 +53,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# API Keys
-pinecone_key.txt
+*/*.log

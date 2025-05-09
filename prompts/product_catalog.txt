@@ -1,0 +1,79 @@
+### 1. FMH NestaFlex 376FL Gravity Conveyor System (source: FMH__Manual_conveyor_system.md)
+
+A flexible “accordion‑style” skate‑wheel conveyor engineered for distribution‑center dock doors and trailer loading lines. Sections expand, contract, and curve—letting one worker span up to 60 ft without needing powered rollers. Zinc‑plated steel wheels ride on precision bearings for low‑push effort, while adjustable leg sets (28‑50 in) and welded side‑guards keep cartons tracking true. The 376FL variant built for Walmart adds thicker side‑channels, 200 lb/ft live load capacity, and yellow safety‑strap hoists for rapid collapse when the door closes. Ideal for high‑throughput parcel handling where electricity is scarce or moisture would corrode powered belts.
+
+### 2. Genie GS‑2032 / GS‑2632 Electric Scissor Lifts (source: GENIE_GS-2632_SERVICE_MANUAL.md)
+
+Mid‑height work platforms that elevate two people plus tools (up to 500 lb) to 26 ft with a 32 in chassis that slips through commercial doorways. An electric front‑wheel drive and a 24 V battery pack deliver silent, fume‑free indoor duty, while Genie’s pothole‑protect system automatically drops steel bars to maintain stability on uneven slabs. The SmartLink controller provides proportional lift/drive, on‑board diagnostics, and motion‑alarm interlocks. Common in facilities maintenance, racking, and theatrical rigging where forklifts cannot reach.
+
+### 3. Bunn Infusion‑Series ITB/ITCB/ICB Commercial Brewers (source: BIMM_ITB_SERVICE_&_REPAIR_MANUAL.md)
+
+A modular family of “batch‑on‑demand” brewers that produce high‑volume iced tea and specialty coffee—up to 26 gallons per hour—using Bunn’s digital infusion logic. Programmable pulse‑brew curves optimize extraction for single‑origin or flavored teas; a dual‑valve design lets restaurants brew tea in one funnel and coffee in the other back‑to‑back. USB recipe upload, FETCO‑style dispense nozzles, energy‑saver sleep modes, and an internal diagnostics log make the platform a workhorse for QSR chains and convenience stores seeking menu variety without adding barista labor.
+
+### 4. Raymond Model 102XM Electric Pallet Truck (source: RAYMOND_102XM_MAINTENANCE_MANUAL.md)
+
+A walkie, 24‑volt pallet jack that combines AC traction with regenerative braking for up to 8 hours of continuous dock work. Rated around 4,500–6,000 lb, the truck’s narrow fork design enters stringer pallets easily, while Raymond’s ACR System offers programmable creep speed, turtle‑mode throttle, and an LCD performance menu. Steel battery box covers, IP65 sealed harnesses, and a pivoting handle with anti‑fatigue brake actuation make it a favorite for grocery back‑rooms and beverage distributors moving heavy loads in confined trailers.
+
+### 5. Vantage II Low‑Intensity Infrared Tube Heaters (Models CTH2‑40 → CTH2‑150) (source: Vantage_IOS_130100NA_RevC.md)
+
+Unitary, sealed‑combustion gas heaters that warm industrial bays by radiating energy to floors, vehicles, and people—much like sunlight—reducing stratification losses typical of unit heaters. An aluminized heat‑exchanger tube runs end‑to‑end inside a parabolic reflector; a draft inducer pulls products of combustion through the tube, emitting long‑wave IR. They ship fully assembled in 20–60 ft lengths, vent horizontally or vertically, and can modulate down to 30 % input for energy savings. Typical in service garages, airplane hangars, and loading docks that cycle large doors.
+
+### 6. Rotary SPO9 Two‑Post Surface‑Mounted Lift (source: ROTARY_SPO9_O&M_MANUAL.md)
+
+Part of Rotary’s SPOA/SPO series, the SPO9 is a 9,000 lb two‑post asymmetric lift whose “Tru‑Metric” arms swing 180° for either symmetric or asymmetric spotting. Shockwave™ DC‑power option cuts rise time to 25 s and lowers to 19 s via twin 8 V batteries and a 110 V charger, keeping bays productive during peak seasons. Forged Trio™ arms accept stackable adapters for EV batteries and trucks, while ALI‑Gold certification assures locking and load‑holding redundancy. Perfect for fast‑lane general repair where bay throughput is king.
+
+### 7. Desmon Commercial Blast Chillers & Freezers (source: DESMON_BLAST_CHILLER_SERVICE_MANUAL.md)
+
+Stainless‑steel reach‑in or roll‑in cabinets that pull cooked food from 160 °F down to 37 °F in ≤90 minutes (blast chill) or to 0 °F in ≤240 minutes (blast freeze), locking in moisture and meeting HACCP cooling mandates. A high‑capacity scroll compressor, multi‑fan evaporator, and reversible door gaskets combine with a color touchscreen that stores 99 programmable cycles, complete with core‑probe temperature graphing. Desmon units extend shelf life of prepared meals, support cook‑chill production lines, and reduce food‑safety risk for hotels, commissaries, and retail delis.
+
+### 8. Challenger Model 39000 Versymmetric™ Two‑Post Lift (source: CHALLENGER_39000_IOM_MANUAL.md)
+
+A heavyweight two‑post lift engineered for medium‑duty trucks, ambulances, and select Class 8 cab‑over tractors. Versymmetric arms pivot from a common fixed column, giving operators symmetric lifting for long‑wheelbase vans or asymmetric door‑clearance for cab‑forward vehicles—without re‑spotting. Cylinders are overhead‑mounted with padded shut‑off to maximize under‑car clearance, and each column sports a dual‑point mechanical lock held by redundant cables. Frequently deployed in municipal fleets, fire stations, and transit depots that need under‑frame access without investing in a four‑post behemoth.
+
+### 9. Champion VR5–6 (CADRSASP12/13) Duplex Two‑Stage Air Compressors (source: CHAMPION_VR5-6_O&M_MANUAL.md)
+
+Stationary, tank‑mounted reciprocating compressors that pair two cast‑iron, splash‑lubricated pump assemblies in a duplex configuration. Each pump develops up to 175 psi at roughly 18–25 CFM (per pump), allowing lead‑lag or simultaneous operation to match fluctuating shop demand. Head‑unloaders, inter‑/after‑coolers, and an ASME‑coded vertical tank maintain air quality and duty cycle longevity. A NEMA‑rated duplex magnetic starter provides staggered motor starts to reduce inrush current—ideal for collision centers or small manufacturing cells needing dry, high‑pressure air without a rotary‑screw budget.
+
+### 10. Genie GS‑1530 / GS‑1930 Compact Scissor Lifts (source: GENIE_GS-1930_SERVICE_MANUAL.md)
+
+“Warehouse workhorses” that reach 19 ft (GS‑1930) yet fit through a single man‑door and weigh under 3,000 lb. Front‑wheel direct electric drive gives 25 % gradeability for truck tailgate ramps, while integrated pothole protection keeps the platform rigid when elevated. The slide‑out deck extends an extra 36 in, letting technicians reach over conveyor lines or theater seats. Common in aircraft fuselage work, data‑center cabling, and retail sign installation.
+
+### 11. Coats 5060 A/E and AX/EX Rim Clamp® Tire Changers (source: COATS_5060_O&M_MANUAL.md)
+
+A rugged pneumatic/electro‑hydraulic changer optimized for passenger to light‑truck rims up to 24 in outside clamping. The dual‑stage bead‑breaker shovel handles extra‑stiff sidewalls, while Coats’ four‑jaw, central‑column turntable offers 10–14 RPM variable speed. Plastic‑protected mount/demount heads guard against alloy scratching, and an optional “Helper‑Duck” arm tames low‑profile run‑flats. Ubiquitous in high‑volume tire shops looking for a step‑up from swing‑arm machines without leaping to full robotic systems.
+
+### 12. Fri‑Jado DC‑3‑Level Hot Deli Counters (DC 72‑3 H / DC 96‑3 H) (source: FriJado_Hot_Case_9129355_Service_Manual__DC_3_level_16072024_EN.md)
+
+Heated self‑service merchandisers featuring three tiered, open‑front shelves that bathe fried chicken, pizza slices, or grab‑and‑go entrées in gentle recirculated air at 140–165 °F. Each shelf has independent PID temperature control and a humidity‑boosting water pan to minimize product dehydration. LED canopy lighting, curved glass side‑panels, and black powder‑coat framing create an attractive focal point for supermarket front‑of‑house operations, while eco‑mode overnight set‑back halves power draw after closing.
+
+### 13. Challenger CL12 Two‑Post Surface‑Mounted Lift (source: CHALLENGER_CL12_IOM_MANUAL.md)
+
+A 12,000 lb capacity lift aimed at pickup trucks, Sprinter vans, and SUVs. The Versymmetric arm design yields either 30° asymmetric or 45° symmetric positions without sacrificing door swing. Infinite‑position automatic locking ladders engage every 4 in, and rubber foot‑pads plus stackable adapters handle uni‑body EVs or frame‑rail classics. The CL12 is an entry‑to‑mid‑range solution for independent shops transitioning from 9K lifts to meet modern vehicle curb‑weight growth.
+
+### 14. Garland Master Series Electric Convection Ovens (MCO‑ED/ES‑10 & 20) (source: GARLAND_MCO-ED-10_OPERATION_AND_MAINTENANCE_MANUAL.md)
+
+Full‑size 29‑in‑wide ovens with two‑speed forced‑air fans and a 60‑kW element bank that heat to 500 °F in under 15 min. Each cavity holds five standard 18 × 26 pans or ten if stacked. Solid‑state controls offer cook‑and‑hold, automatic cool‑down, and a 150‑event recipe library, while tri‑pane cool‑touch doors recycle radiant heat and cut outer‑glass temperature to <150 °F. NSF‑certified coved corners and removable racks simplify daily wash‑down, making the line a staple in hotel banquet and institutional feeding.
+
+### 15. Coats X‑Model Series (50/60/70/80/90) Rim Clamp Tire Changers (source: COATS_70X_O&M_MANUAL.md)
+
+An evolution of the classic Rim Clamp platform with a “Swing‑Arm X” mast that slides straight fore/aft—maintaining head‑to‑rim alignment during clamping. Models scale from 50X (entry 10–18 in) to 90X (heavy‑duty 26 in) and share a powerful Robo‑Roller assist arm, top‑side bead seater, and an extra‑low variable‑height turntable that eases loading 33‑in off‑road assemblies. Widely adopted by car‑dealer service lanes looking to future‑proof against increasing wheel diameters.
+
+### 16. Fri‑Jado MDD‑3‑48 Multi‑Deck Display Hot Case (source: FriJado_Hot_Case_Service_Manual_MDD-3-48.md)
+
+A grab‑and‑go heated merchandiser tailored for Walmart deli layouts. Three 48‑in decks use rear‑ducted convection to maintain 145 °F‑plus holding temperatures with ≤1 °F gradient shelf‑to‑shelf. Integrated shelf‑edge LEDs, wire product fences, and self‑closing night curtains help extend hold times while meeting DOE 2023 energy standards. Its slim 34‑in depth lets stores retrofit legacy cold cases without moving aisles.
+
+### 17. Rotary VLXS7 / VLXS10 Low‑Rise Pad Lifts (source: ROTARY_VLXS7_O&M_MANUAL.md)
+
+Portable, frame‑contact lifts that raise vehicles 26 in in roughly 50 seconds, perfect for quick‑service tire rotations and PDI (pre‑delivery inspection) bays. Scissor‑style parallelogram arms nestle into a 106 in x 79 in footprint and re‑tract flush so technicians can drive over when not in use. The 7,000 lb (VLXS7) and 10,000 lb (VLXS10) models run on 208‑230 V single‑phase and include UHMW pad adapters for unibody EV jack points.
+
+### 18. Fri‑Jado TDR P eco Rotisserie Ovens & TDW Warmers (source: FRI-JADO_TDR7_SERVICE_MANUAL.md)
+
+Gas or electric rotisseries that roast up to 40 (TDR 5) or 56 (TDR 7) 3‑lb chickens in 75 minutes using a bi‑directional rotation drum and halogen browning elements. The “eco” designation cuts energy 30 % vs. legacy models through triple‑pane glass, tighter seals, and an automated cool‑down mode that vents steam outside merchandising hours. Companion TDW cabinets keep birds at 150 °F with humidified convection and auto‑fill reservoirs, delivering a full cook‑hold solution for supermarket deli programs.
+
+### 19. Nordock AirDock® AD Air‑Powered Dock Leveler (source: NORDOCK_AD_OPERATION_MAINTENANCE_AND_PARTS_MANUAL.md)
+
+A push‑button dock plate that inflates a reinforced PVC/urethane airbag to raise the deck, then releases air to lower onto a trailer bed—eliminating the need for high‑maintenance mechanical springs or hydraulic cylinders. Capacities range 25–50 k lb, with a 6‑lip length for modern step‑deck trailers. Structural “C” channel beams, a laminated deck hinge, and a 5‑year bag warranty keep lifecycle costs low, making AirDock a favorite among food warehouses requiring clean, oil‑free pits.
+
+### 20. f’real FRLB4 Automated Frozen Beverage Blender (source: FREAL_FRLB4_SERVICE_MANUAL.md)
+
+A countertop, self‑cleaning blender that prepares milkshakes and smoothies directly in a disposable f’real cup. RFID cup recognition calls pre‑programmed spin profiles; a two‑axis motor lowers the spindle, senses viscosity in real time, and adjusts blend speed for consistent texture. An integrated four‑stage rinse station runs after every drink, and a weekly sanitizing routine is initiated via touchscreen. With a 12” footprint and average 60 s cycle, the FRLB4 lets c‑stores sell high‑margin frozen beverages without dedicated staff.

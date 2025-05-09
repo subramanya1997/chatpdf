@@ -1,6 +1,6 @@
 [project]
 # Whether to enable telemetry (default: true). No personal data is collected.
-enable_telemetry = true
+enable_telemetry = false
 
 
 # List of environment variables to be provided by each user to use the app.
@@ -29,11 +29,11 @@ latex = false
 auto_tag_thread = true
 
 # Allow users to edit their own messages
-edit_message = true
+edit_message = false
 
 # Authorize users to spontaneously upload files with messages
 [features.spontaneous_file_upload]
-    enabled = true
+    enabled = false
     # Define accepted file types using MIME types
     # Examples:
     # 1. For specific file types:
@@ -71,7 +71,7 @@ cot = "full"
 
 # Specify a Javascript file that can be used to customize the user interface.
 # The Javascript file can be served from the public directory.
-# custom_js = "/public/test.js"
+# custom_js = "/public/custom.js"
 
 # Specify a custom meta image url.
 # custom_meta_image_url = "https://chainlit-cloud.s3.eu-west-3.amazonaws.com/logo/chainlit_banner.png"
