@@ -1,79 +1,406 @@
-### 1. FMH NestaFlex 376FL Gravity Conveyor System (source: FMH__Manual_conveyor_system.md)
+### 1  FriJado DC‑3 Level Hot Display Case *(source: FriJado_Hot_Case_9129355_Service_Manual__DC_3_level_16072024_EN.md)*
 
-A flexible “accordion‑style” skate‑wheel conveyor engineered for distribution‑center dock doors and trailer loading lines. Sections expand, contract, and curve—letting one worker span up to 60 ft without needing powered rollers. Zinc‑plated steel wheels ride on precision bearings for low‑push effort, while adjustable leg sets (28‑50 in) and welded side‑guards keep cartons tracking true. The 376FL variant built for Walmart adds thicker side‑channels, 200 lb/ft live load capacity, and yellow safety‑strap hoists for rapid collapse when the door closes. Ideal for high‑throughput parcel handling where electricity is scarce or moisture would corrode powered belts.
+**Elaborate description**
+A triple‑deck, counter‑top heated merchandiser designed for supermarket deli departments. Each glass shelf is independently heated and lit to keep rotisserie chickens, sides, and grab‑and‑go entrées at safe serving temperatures while maximising product visibility. Stainless‑steel body panels are insulated to reduce energy loss and the rear service doors slide for rapid loading.
 
-### 2. Genie GS‑2032 / GS‑2632 Electric Scissor Lifts (source: GENIE_GS-2632_SERVICE_MANUAL.md)
+**Components / Parts**
+- Quartz radiant elements (upper & mid‑deck) — provide top‑down browning
+- Convection fan module with impeller & 50 W motor — circulates hot air evenly across decks
+- NTC temperature probe per deck — feeds digital PID controller for ±2 °C accuracy
+- Water‑pan humidifier — maintains 40‑50 % RH to prevent food drying
+- LED light bars (4000 K) — merchandising illumination with low heat output
+- Main switch & IEC power entry — 208/240 V, 15 A service
+- Removable perforated deck trays & crumb‑catcher — speed nightly cleaning
 
-Mid‑height work platforms that elevate two people plus tools (up to 500 lb) to 26 ft with a 32 in chassis that slips through commercial doorways. An electric front‑wheel drive and a 24 V battery pack deliver silent, fume‑free indoor duty, while Genie’s pothole‑protect system automatically drops steel bars to maintain stability on uneven slabs. The SmartLink controller provides proportional lift/drive, on‑board diagnostics, and motion‑alarm interlocks. Common in facilities maintenance, racking, and theatrical rigging where forklifts cannot reach.
+**Functionality**
+Forced‑air convection combines with radiant elements to hold 60–85 °C. Humidity pan slides out for refill; controller offers three preset temperature profiles that can be trimmed in 1 °C steps.
 
-### 3. Bunn Infusion‑Series ITB/ITCB/ICB Commercial Brewers (source: BIMM_ITB_SERVICE_&_REPAIR_MANUAL.md)
+**Instructions present**
+Installation clearances (100 mm rear, 150 mm sides), daily cleaning procedure, weekly descaling of humidifier, element replacement, diagnostics (E1 probe open, E2 over‑temp) and full wiring diagram.
 
-A modular family of “batch‑on‑demand” brewers that produce high‑volume iced tea and specialty coffee—up to 26 gallons per hour—using Bunn’s digital infusion logic. Programmable pulse‑brew curves optimize extraction for single‑origin or flavored teas; a dual‑valve design lets restaurants brew tea in one funnel and coffee in the other back‑to‑back. USB recipe upload, FETCO‑style dispense nozzles, energy‑saver sleep modes, and an internal diagnostics log make the platform a workhorse for QSR chains and convenience stores seeking menu variety without adding barista labor.
+---
 
-### 4. Raymond Model 102XM Electric Pallet Truck (source: RAYMOND_102XM_MAINTENANCE_MANUAL.md)
+### 2  Genie GS‑2632 Scissor Lift *(source: GENIE_GS-2632_SERVICE_MANUAL.md)*
+**Elaborate description**
+An electric, narrow‑aisle scissor lift that delivers a 32 ft (9.9 m) working height with slide‑out deck extension. The unit is CE/ANSI compliant and features on‑board SmartLink™ diagnostics.
 
-A walkie, 24‑volt pallet jack that combines AC traction with regenerative braking for up to 8 hours of continuous dock work. Rated around 4,500–6,000 lb, the truck’s narrow fork design enters stringer pallets easily, while Raymond’s ACR System offers programmable creep speed, turtle‑mode throttle, and an LCD performance menu. Steel battery box covers, IP65 sealed harnesses, and a pivoting handle with anti‑fatigue brake actuation make it a favorite for grocery back‑rooms and beverage distributors moving heavy loads in confined trailers.
+**Components / Parts**
+- Scissor stack of high‑strength steel links with self‑lubricating bushings
+- Dual 2.5 in bore hydraulic cylinders fitted with velocity fuses
+- 24 V DC hydraulic power pack (gear pump + 3 kW motor)
+- Slide‑out extension deck (36 in travel) with gate and latch pin
+- Pothole protection linkage & guards that deploy automatically >5 in elevation
+- Tilt sensor (±3°) feeding ECU, audible tilt alarm
+- Battery tray (4× 6 V 225 Ah) with hinged slide for maintenance
+- Integrated 25 A charger and shore‑power cord
 
-### 5. Vantage II Low‑Intensity Infrared Tube Heaters (Models CTH2‑40 → CTH2‑150) (source: Vantage_IOS_130100NA_RevC.md)
+**Functionality**
+Proportional joystick modulates pump solenoid for smooth lift; AC drive controller powers two planetary wheel drives up to 2.5 mph. Automatic descent alarm and platform load sense according to EN 280.
 
-Unitary, sealed‑combustion gas heaters that warm industrial bays by radiating energy to floors, vehicles, and people—much like sunlight—reducing stratification losses typical of unit heaters. An aluminized heat‑exchanger tube runs end‑to‑end inside a parabolic reflector; a draft inducer pulls products of combustion through the tube, emitting long‑wave IR. They ship fully assembled in 20–60 ft lengths, vent horizontally or vertically, and can modulate down to 30 % input for energy savings. Typical in service garages, airplane hangars, and loading docks that cycle large doors.
+**Instructions present**
+Pre‑operation checklist, daily function test sheet, hydraulic oil spec (ISO‑32), battery watering schedule, decal placement diagrams, diagnostics fault codes 02–45, full torque chart for annual inspections.
 
-### 6. Rotary SPO9 Two‑Post Surface‑Mounted Lift (source: ROTARY_SPO9_O&M_MANUAL.md)
+---
 
-Part of Rotary’s SPOA/SPO series, the SPO9 is a 9,000 lb two‑post asymmetric lift whose “Tru‑Metric” arms swing 180° for either symmetric or asymmetric spotting. Shockwave™ DC‑power option cuts rise time to 25 s and lowers to 19 s via twin 8 V batteries and a 110 V charger, keeping bays productive during peak seasons. Forged Trio™ arms accept stackable adapters for EV batteries and trucks, while ALI‑Gold certification assures locking and load‑holding redundancy. Perfect for fast‑lane general repair where bay throughput is king.
+### 3  Coats 70X Rim‑Clamp® Tire Changer *(source: COATS_70X_O&M_MANUAL.md)*
+**Elaborate description**
+A shop‑grade pneumatic/electric tire changer capable of handling standard, low‑profile, and run‑flat assemblies up to 24 in outer‑rim diameter. Dual‑speed turntable and quick‑adjust jaws speed throughput.
 
-### 7. Desmon Commercial Blast Chillers & Freezers (source: DESMON_BLAST_CHILLER_SERVICE_MANUAL.md)
+**Components / Parts**
+- Rim‑clamp jaws (hardened steel, nylon‑covered) actuated by twin 90 mm air cylinders
+- Bead‑loosener shovel with replaceable wear pad
+- Duckhead mount/demount tool (polymer insert) on swing‑arm
+- Two‑speed 1 hp table‑drive motor with belt reduction
+- Bead‑press assist arm (optional) w/ pusher roller & cup
+- Inflation jets (Blast‑Tank) integrated into jaws, air gauge to 60 psi
+- Foot‑pedal manifold block (clamp, turn, bead‑breaker)
 
-Stainless‑steel reach‑in or roll‑in cabinets that pull cooked food from 160 °F down to 37 °F in ≤90 minutes (blast chill) or to 0 °F in ≤240 minutes (blast freeze), locking in moisture and meeting HACCP cooling mandates. A high‑capacity scroll compressor, multi‑fan evaporator, and reversible door gaskets combine with a color touchscreen that stores 99 programmable cycles, complete with core‑probe temperature graphing. Desmon units extend shelf life of prepared meals, support cook‑chill production lines, and reduce food‑safety risk for hotels, commissaries, and retail delis.
+**Functionality**
+Compressed air (110–175 psi) drives clamping, bead breaking and bead‑seating. Electric motor spins wheel CW/CCW; bead‑press arm stabilises stiff sidewalls. Operator foot pedals provide hands‑free control.
 
-### 8. Challenger Model 39000 Versymmetric™ Two‑Post Lift (source: CHALLENGER_39000_IOM_MANUAL.md)
+**Instructions present**
+Shop‑air filtration spec, weekly lubricant points, nylon duckhead replacement, safety warning against standing over tire during inflation, troubleshooting flowchart (slow clamp, no rotate), exploded parts diagrams.
 
-A heavyweight two‑post lift engineered for medium‑duty trucks, ambulances, and select Class 8 cab‑over tractors. Versymmetric arms pivot from a common fixed column, giving operators symmetric lifting for long‑wheelbase vans or asymmetric door‑clearance for cab‑forward vehicles—without re‑spotting. Cylinders are overhead‑mounted with padded shut‑off to maximize under‑car clearance, and each column sports a dual‑point mechanical lock held by redundant cables. Frequently deployed in municipal fleets, fire stations, and transit depots that need under‑frame access without investing in a four‑post behemoth.
+---
 
-### 9. Champion VR5–6 (CADRSASP12/13) Duplex Two‑Stage Air Compressors (source: CHAMPION_VR5-6_O&M_MANUAL.md)
+### 4  Raymond 102XM Walkie Pallet Truck *(source: RAYMOND_102XM_MAINTENANCE_MANUAL.md)*
+**Elaborate description**
+A 4,500 lb capacity electric walkie pallet truck tailored for grocery and retail back‑of‑store material handling. AC traction and regenerative braking improve battery life and control.
 
-Stationary, tank‑mounted reciprocating compressors that pair two cast‑iron, splash‑lubricated pump assemblies in a duplex configuration. Each pump develops up to 175 psi at roughly 18–25 CFM (per pump), allowing lead‑lag or simultaneous operation to match fluctuating shop demand. Head‑unloaders, inter‑/after‑coolers, and an ASME‑coded vertical tank maintain air quality and duty cycle longevity. A NEMA‑rated duplex magnetic starter provides staggered motor starts to reduce inrush current—ideal for collision centers or small manufacturing cells needing dry, high‑pressure air without a rotary‑screw budget.
+**Components / Parts**
+- AC traction motor and integral drive‑gearbox
+- 24 V lift pump motor (gear pump) feeding single‑stage lift cylinder
+- Polyurethane drive wheel, tandem load wheels on forks
+- Steer tiller with butterfly thumb throttles, belly‑button reverse switch
+- Battery compartment for 24 V 255 Ah industrial pack
+- Curtis® controller with programming port
+- Regenerative brake resistor & parking brake solenoid
 
-### 10. Genie GS‑1530 / GS‑1930 Compact Scissor Lifts (source: GENIE_GS-1930_SERVICE_MANUAL.md)
+**Functionality**
+Thumb throttle commands speed; proportional lift rocker drives hydraulic pump. Regeneration captures energy on decel. Belly‑button switch triggers quick reverse if operator is pinned.
 
-“Warehouse workhorses” that reach 19 ft (GS‑1930) yet fit through a single man‑door and weigh under 3,000 lb. Front‑wheel direct electric drive gives 25 % gradeability for truck tailgate ramps, while integrated pothole protection keeps the platform rigid when elevated. The slide‑out deck extends an extra 36 in, letting technicians reach over conveyor lines or theater seats. Common in aircraft fuselage work, data‑center cabling, and retail sign installation.
+**Instructions present**
+Daily battery inspection, 250‑hr lubrication table, wheel replacement criteria (≥3 mm wear), error code list (Code 21 pump over‑current, Code 41 traction temp), schematics, torque chart for steer pivot.
 
-### 11. Coats 5060 A/E and AX/EX Rim Clamp® Tire Changers (source: COATS_5060_O&M_MANUAL.md)
+---
 
-A rugged pneumatic/electro‑hydraulic changer optimized for passenger to light‑truck rims up to 24 in outside clamping. The dual‑stage bead‑breaker shovel handles extra‑stiff sidewalls, while Coats’ four‑jaw, central‑column turntable offers 10–14 RPM variable speed. Plastic‑protected mount/demount heads guard against alloy scratching, and an optional “Helper‑Duck” arm tames low‑profile run‑flats. Ubiquitous in high‑volume tire shops looking for a step‑up from swing‑arm machines without leaping to full robotic systems.
+### 5  Challenger Versymmetric™ 39000 Two‑Post Lift *(source: CHALLENGER_39000_IOM_MANUAL.md)*
+**Elaborate description**
+An ALI/ETL‑certified 9,000 lb two‑post automotive lift featuring Versymmetric arm geometry, permitting both symmetric truck and asymmetric passenger‑car loading without re‑spotting.
 
-### 12. Fri‑Jado DC‑3‑Level Hot Deli Counters (DC 72‑3 H / DC 96‑3 H) (source: FriJado_Hot_Case_9129355_Service_Manual__DC_3_level_16072024_EN.md)
+**Components / Parts**
+- Two heavy‑gauge columns (11 ga) with formed carriage channels
+- Hydraulic cylinders (2 ¼ in bore) driving carriage chains
+- Overhead equaliser cables with pulleys and covers
+- Arm sets: 2 long, 2 short w/ three‑stage telescoping tubes
+- Stackable foot‑pad adapters & rubber inserts
+- Mechanical safety latches every 4 in, pull‑pin lock release
+- Power unit: 208–230 V 2 hp motor, gear pump, 3 gal reservoir
 
-Heated self‑service merchandisers featuring three tiered, open‑front shelves that bathe fried chicken, pizza slices, or grab‑and‑go entrées in gentle recirculated air at 140–165 °F. Each shelf has independent PID temperature control and a humidity‑boosting water pan to minimize product dehydration. LED canopy lighting, curved glass side‑panels, and black powder‑coat framing create an attractive focal point for supermarket front‑of‑house operations, while eco‑mode overnight set‑back halves power draw after closing.
+**Functionality**
+Pressurised Dexron III oil raises carriages; cables synchronise height. Versymmetric design allows 60/40 load fore/aft. Overhead shut‑off bar prevents roof damage at max rise.
 
-### 13. Challenger CL12 Two‑Post Surface‑Mounted Lift (source: CHALLENGER_CL12_IOM_MANUAL.md)
+**Instructions present**
+Concrete spec (4.25 in, 3,000 psi), anchor torque, monthly cable tension check, annual fluid change, arm restraint verification test, lowering procedure, parts exploded view.
 
-A 12,000 lb capacity lift aimed at pickup trucks, Sprinter vans, and SUVs. The Versymmetric arm design yields either 30° asymmetric or 45° symmetric positions without sacrificing door swing. Infinite‑position automatic locking ladders engage every 4 in, and rubber foot‑pads plus stackable adapters handle uni‑body EVs or frame‑rail classics. The CL12 is an entry‑to‑mid‑range solution for independent shops transitioning from 9K lifts to meet modern vehicle curb‑weight growth.
+---
 
-### 14. Garland Master Series Electric Convection Ovens (MCO‑ED/ES‑10 & 20) (source: GARLAND_MCO-ED-10_OPERATION_AND_MAINTENANCE_MANUAL.md)
+### 6  Rotary VLXS7 Low‑Rise Scissor Lift *(source: ROTARY_VLXS7_O&M_MANUAL.md)*
+**Elaborate description**
+A portable 7,000 lb capacity low‑rise scissor lift suited for quick service bays. Drive‑on ramps fold to act as wheel chocks; entire unit may be moved via optional dolly kit.
 
-Full‑size 29‑in‑wide ovens with two‑speed forced‑air fans and a 60‑kW element bank that heat to 500 °F in under 15 min. Each cavity holds five standard 18 × 26 pans or ten if stacked. Solid‑state controls offer cook‑and‑hold, automatic cool‑down, and a 150‑event recipe library, while tri‑pane cool‑touch doors recycle radiant heat and cut outer‑glass temperature to <150 °F. NSF‑certified coved corners and removable racks simplify daily wash‑down, making the line a staple in hotel banquet and institutional feeding.
+**Components / Parts**
+- Scissor leg assemblies with grease‑able pivot pins
+- Hydraulic cylinders (2) with flow restrictor valves
+- Mechanical safety locks actuated by lock‑bar linkage
+- Rubber lift blocks and auxiliary stack adapters
+- Power unit cart (115 V, 20 A) with pendant control
+- UHMW slide pads, ramp locks, equaliser hose
 
-### 15. Coats X‑Model Series (50/60/70/80/90) Rim Clamp Tire Changers (source: COATS_70X_O&M_MANUAL.md)
+**Functionality**
+Foot‑pedant energises power‑unit; oil drives cylinders raising platform to 21 in in 35 s. Safety locks engage automatically; manual lock‑release lowers platform.
 
-An evolution of the classic Rim Clamp platform with a “Swing‑Arm X” mast that slides straight fore/aft—maintaining head‑to‑rim alignment during clamping. Models scale from 50X (entry 10–18 in) to 90X (heavy‑duty 26 in) and share a powerful Robo‑Roller assist arm, top‑side bead seater, and an extra‑low variable‑height turntable that eases loading 33‑in off‑road assemblies. Widely adopted by car‑dealer service lanes looking to future‑proof against increasing wheel diameters.
+**Instructions present**
+Levelling shims, weekly lock lubrication, bleeding procedure, electrical schematic, pad placement diagrams and recommended lift points for common vehicles.
 
-### 16. Fri‑Jado MDD‑3‑48 Multi‑Deck Display Hot Case (source: FriJado_Hot_Case_Service_Manual_MDD-3-48.md)
+---
 
-A grab‑and‑go heated merchandiser tailored for Walmart deli layouts. Three 48‑in decks use rear‑ducted convection to maintain 145 °F‑plus holding temperatures with ≤1 °F gradient shelf‑to‑shelf. Integrated shelf‑edge LEDs, wire product fences, and self‑closing night curtains help extend hold times while meeting DOE 2023 energy standards. Its slim 34‑in depth lets stores retrofit legacy cold cases without moving aisles.
+### 7  Challenger CL12 Two‑Post Lift *(source: CHALLENGER_CL12_IOM_MANUAL.md)*
+**Elaborate description**
+A 12,000 lb heavy‑duty two‑post lift featuring 3‑stage front arms for extended reach on large trucks and vans. Overhead cable concealment provides unobstructed floor access.
 
-### 17. Rotary VLXS7 / VLXS10 Low‑Rise Pad Lifts (source: ROTARY_VLXS7_O&M_MANUAL.md)
+**Components / Parts**
+- High‑strength columns with chain‑drive cylinders
+- 3‑stage asymmetric front arms & 2‑stage rear arms with automatic restraints
+- Overhead cut‑off bar, pull‑cable lock release
+- Stack adapter kit (height extensions)
+- Hydraulic power‑unit 230 V, 60 Hz
+- Arm storage racks and adapter pins
 
-Portable, frame‑contact lifts that raise vehicles 26 in in roughly 50 seconds, perfect for quick‑service tire rotations and PDI (pre‑delivery inspection) bays. Scissor‑style parallelogram arms nestle into a 106 in x 79 in footprint and re‑tract flush so technicians can drive over when not in use. The 7,000 lb (VLXS7) and 10,000 lb (VLXS10) models run on 208‑230 V single‑phase and include UHMW pad adapters for unibody EV jack points.
+**Functionality**
+Rapid‑rise (45 s) via 2.5 gal/min pump; chain equalisation; cut‑off bar halts lift at roof contact for tall vans.
 
-### 18. Fri‑Jado TDR P eco Rotisserie Ovens & TDW Warmers (source: FRI-JADO_TDR7_SERVICE_MANUAL.md)
+**Instructions present**
+Concrete anchor pattern, arm sweep limits, daily lock test, chain inspection, fluid spec (AW‑46), maintenance schedule matrix and decal map.
 
-Gas or electric rotisseries that roast up to 40 (TDR 5) or 56 (TDR 7) 3‑lb chickens in 75 minutes using a bi‑directional rotation drum and halogen browning elements. The “eco” designation cuts energy 30 % vs. legacy models through triple‑pane glass, tighter seals, and an automated cool‑down mode that vents steam outside merchandising hours. Companion TDW cabinets keep birds at 150 °F with humidified convection and auto‑fill reservoirs, delivering a full cook‑hold solution for supermarket deli programs.
+---
 
-### 19. Nordock AirDock® AD Air‑Powered Dock Leveler (source: NORDOCK_AD_OPERATION_MAINTENANCE_AND_PARTS_MANUAL.md)
+### 8  FriJado MDD‑3‑48 Hot Deck Case *(source: FriJado_Hot_Case_Service_Manual_MDD-3-48.md)*
+**Elaborate description**
+A 48‑in wide, three‑deck heated display with humidity control for deli and grab‑and‑go lines. All decks are inclined to improve line‑of‑sight; front curved glass attracts customers.
 
-A push‑button dock plate that inflates a reinforced PVC/urethane airbag to raise the deck, then releases air to lower onto a trailer bed—eliminating the need for high‑maintenance mechanical springs or hydraulic cylinders. Capacities range 25–50 k lb, with a 6‑lip length for modern step‑deck trailers. Structural “C” channel beams, a laminated deck hinge, and a 5‑year bag warranty keep lifecycle costs low, making AirDock a favorite among food warehouses requiring clean, oil‑free pits.
+**Components / Parts**
+- Ceramic radiant elements per deck
+- Humidifier water tray with float valve
+- Deck‑specific digital controller, NTC probes
+- LED canopy & shelf lighting
+- Sliding rear service doors & crumb trays
+- Stainless sloped decks with drip channels
 
-### 20. f’real FRLB4 Automated Frozen Beverage Blender (source: FREAL_FRLB4_SERVICE_MANUAL.md)
+**Functionality**
+Combines radiant heat, convection airflow and humidity to hold 60–90 °C with less than 2 °C gradient between shelves.
 
-A countertop, self‑cleaning blender that prepares milkshakes and smoothies directly in a disposable f’real cup. RFID cup recognition calls pre‑programmed spin profiles; a two‑axis motor lowers the spindle, senses viscosity in real time, and adjusts blend speed for consistent texture. An integrated four‑stage rinse station runs after every drink, and a weekly sanitizing routine is initiated via touchscreen. With a 12” footprint and average 60 s cycle, the FRLB4 lets c‑stores sell high‑margin frozen beverages without dedicated staff.
+**Instructions present**
+Water‑tray descaling, deck temperature calibration, nightly disassembly sequence, fuse table, alarm list (Ht‑4 over‑temp, SEr sensor fault).
+
+---
+
+### 9  Rotary SPO9 Two‑Post Lift *(source: ROTARY_SPO9_O&M_MANUAL.md)*
+**Elaborate description**
+A 9,000 lb two‑post lift known for Shockwave™ option (DC motors + super‑capacitors) that halves rise/descent time and allows cordless work during power loss.
+
+**Components / Parts**
+- Double‑telescoping arms with flip‑up adapters
+- Twin hydraulic cylinders inside carriage housings
+- Equaliser cables, sheaves & lubrication blocks
+- Shockwave power pack (optional) with lithium super‑caps
+- Spotline™ laser centre guide
+- ALI/ETL certified lock ladders
+
+**Functionality**
+Hydraulic power raises vehicle in 25 s (Shockwave) or 45 s (standard). Laser guides centring. Mechanical locks engage every 4 in; slack‑cable switches cut power if failure detected.
+
+**Instructions present**
+Concrete footing spec, laser alignment, cable replacement at 10 yrs, Shockwave battery maintenance, decals.
+
+---
+
+### 10  Bunn Infusion Series ITB/ITCB/ICB Brewers *(source: BIMM_ITB_SERVICE_&_REPAIR_MANUAL.md)*
+**Elaborate description**
+Commercial high‑volume brew systems for iced tea and coffee, offering programmable pulse brew, bypass, dilution and recipe storage. Modular design eases field repair.
+
+**Components / Parts**
+- Stainless brew tank with 1750 W heating element (#42528.0000)
+- Sprayhead & diffuser plate assembly (#34996.0001)
+- Silicone water tubing with flow control restrictors
+- Touch keypad & LCD control board (firmware rev 2.8)
+- Dilution bypass solenoid valve
+- Hot water faucet & mixing panel
+- Drip tray and waste grate
+
+**Functionality**
+Controller opens fill valve, heats to 93 °C, pulses water through sprayhead; bypass blends with cold for target TDS. Optional twin‑brew heads double throughput.
+
+**Instructions present**
+Service mode access (*+F3), deliming steps, flow calibration (ml/s chart), parts explosion, troubleshooting table (Error 05 heater open, Error 15 flow metre).
+
+---
+
+### 11  FMH NestaFlex 376FL Gravity Conveyor *(source: FMH__Manual_conveyor_system.md)*
+**Elaborate description**
+An “accordion‑style” skate‑wheel conveyor engineered for dock doors and trailer loading lines. Sections expand, contract and curve—letting one operator span up to 60 ft without powered rollers.
+
+**Components / Parts**
+- Zinc‑plated steel skate wheels on precision bearings
+- Telescopic side‑channels (thicker Walmart variant)
+- Adjustable leg sets (28–50 in) with lock pins
+- Cross‑brace scissor lattice (1/4 in wall)
+- Safety‑strap hoists (yellow) for rapid collapse
+- Swivel casters with total‑lock brakes
+
+**Functionality**
+Gravity moves cartons; operator sets 2–3 in pitch per 10 ft. Conveyor curves ±180 °; side‑guards keep cartons tracking. 200 lb/ft live load capacity.
+
+**Instructions present**
+Wheel bearing grease, frame inspection gauges, pitch set‑up, safe stow procedure, replacement wheel kit #WLM24A, decal placements.
+
+---
+
+### 12  f’real FRLB4 Blender *(source: FREAL_FRLB4_SERVICE_MANUAL.md)*
+**Elaborate description**
+A countertop automated blender for self‑serve milkshakes. User inserts proprietary cup; blender pierces seal, blends pre‑programmed profile and self‑rinses spindle.
+
+**Components / Parts**
+- Brushless DC motor (1.5 hp) & stainless spindle
+- Keypad membrane (6 recipe buttons) with back‑lit icons
+- Magnetic reed door switch
+- Rinse station manifold & solenoid
+- PCB control board with firmware jumpers
+- Vibration isolation mounts and drip‑pan assembly
+
+**Functionality**
+Motor ramps through RPM profile; control board monitors current draw to detect thick blend; rinse cycle sprays water jets 5 s post operation; safety interlock halts motor if door open >15 °.
+
+**Instructions present**
+Daily sanitising, monthly coupling & bearing inspection, service menu (*+7) calibration, error code chart (Code 17 door), belt replacement kit list, exploded diagrams.
+
+---
+
+### 13  Fri‑Jado TDR7 Rotisserie *(source: FRI-JADO_TDR7_SERVICE_MANUAL.md)*
+**Elaborate description**
+A seven‑spit gas or electric rotisserie featuring Eco mode and programmable cook/hold cycles. Double‑glass doors retain heat and reduce front‑of‑house noise.
+
+**Components / Parts**
+- Rotating carousel drive motor & chain
+- Infrared ceramic burners (gas) or Incoloy elements (electric)
+- Convection circulation fan
+- Grease collection drawer with removable filters
+- LED touch control panel
+- Door microswitch & heat‑resistant hinges
+
+**Functionality**
+Spits rotate 6 rpm; burners cycle via PID to roast evenly; Eco hold drops temp to 60 °C after timer; drip pan heater liquifies grease for drain.
+
+**Instructions present**
+Installation under Type‑1 hood, spit loading diagram, weekly burner cleaning, drive belt tensioning, error list (E03 ignition fail), chain lubrication schedule.
+
+---
+
+### 14  Garland MCO‑ED‑10 Electric Convection Oven *(source: GARLAND_MCO-ED-10_OPERATION_AND_MAINTENANCE_MANUAL.md)*
+**Elaborate description**
+A 10‑pan, single‑deck electric convection oven with dual‑speed blower and solid‑state controls. Porcelain enamel interior simplifies cleaning; doors open simultaneously with single handle.
+
+**Components / Parts**
+- Incoloy sheathed heating elements (10 kW) under deck & in plenum
+- Single 1/2 hp blower motor, two‑speed switch
+- Solid‑state thermostat (150–500 °F) & 60 min timer
+- Hi‑limit safety thermostat resettable
+- Door gasket, latch and microswitch
+- Nickel‑plated racks & rack guides
+
+**Functionality**
+Blower forces air across elements, through perforated baffle, around food. Low speed for delicate baking; high for roasting. Timer buzzer alerts end of cycle; hi‑limit protects from runaway heat.
+
+**Instructions present**
+Initial seasoning, daily wipe‑down, quarterly gasket check, motor lube ports diagram, troubleshooting (over‑temp, no heat), wiring schematic.
+
+---
+
+### 15  Desmon Blast Chiller *(source: DESMON_BLAST_CHILLER_SERVICE_MANUAL.md)*
+**Elaborate description**
+A gastronorm‑compatible blast chiller/freezer capable of chilling 90 °C food to 3 °C within 90 min or freezing to –18 °C. HACCP‑ready controller logs each cycle.
+
+**Components / Parts**
+- Hermetic scroll compressor (R404A)
+- Stainless fin‑coil evaporator with turbofan
+- Core temperature probe (removable)
+- Touch LCD controller with USB data port
+- Electric defrost heater
+- Door with heated gasket & microswitch
+
+**Functionality**
+Controller modulates compressor and fan speed based on probe or timed mode. Automatic hot‑gas defrost at end of freeze cycles; HACCP log stored in onboard memory.
+
+**Instructions present**
+Clearance requirements, condenser‑fins cleaning, probe sanitising, parameter menu (P1–P9), alarm codes (dF, Hi, Lo, F1), exploded parts and wiring.
+
+---
+
+### 16  Genie GS‑1930 Scissor Lift *(source: GENIE_GS-1930_SERVICE_MANUAL.md)*
+**Elaborate description**
+Compact walk‑through scissor lift with 19 ft platform height, ideal for inventory aisles. SmartLink diagnostics identical to GS‑2632 but narrower 30 in chassis.
+
+**Components / Parts**
+- Scissor stack & hinge pins
+- Hydraulic power unit 24 V
+- Dual pothole guards & limit switches
+- Extension deck (30 in travel)
+- Slide‑out battery tray w/ four 6 V 225 Ah batteries
+- Emergency descent hand‑valve, safety prop bar
+
+**Functionality**
+500 lb platform capacity; proportional controls; indoor‑only (no wind rating). Pothole guards lock drive at >3° tilt.
+
+**Instructions present**
+Daily inspection checklist, charger connection, lubrication points, diagnostic codes 11–40, ANSI annual inspection form.
+
+---
+
+### 17  Vantage II Low‑Intensity Infrared Tube Heater *(source: Vantage_IOS_130100NA_RevC.md)*
+**Elaborate description**
+Ceiling‑hung positive‑pressure infrared heater emitting long‑wave radiation for warehouse and dock areas. CSA‑certified for indoor/outdoor use.
+
+**Components / Parts**
+- Burner assembly with centrifugal blower
+- Stainless steel combustion chamber & aluminised tubes
+- Silicon‑nitride hot‑surface igniter & flame rod
+- Reflector panels with reflector end caps
+- Combination gas valve & manifold orifice kit
+- Chain/cable hanging kit, 24 V thermostat terminals
+
+**Functionality**
+Blower pushes premix gas/air through tubes; combustion heats tubes which radiate downward. Reflector focuses heat. Controller supervises ignition and checks flame signal (micro‑amp).
+
+**Instructions present**
+Mounting height chart, tube slope (1 in per 20 ft), gas supply sizing, combustion analyser spec (CO < 50 ppm), annual brushing procedure, electrode gap spec.
+
+---
+
+### 18  Nordock AirDock® AD Dock Leveler *(source: NORDOCK_AD_OPERATION_MAINTENANCE_AND_PARTS_MANUAL.md)*
+**Elaborate description**
+Air‑bag powered dock leveler bridging warehouse floor and trailer bed. Push‑button control inflates air bag, raising deck; lip extends automatically.
+
+**Components / Parts**
+- PVC‑reinforced air bladder rated 8 psi
+- Deck (checker plate) & lip with hinge pin
+- Blower motor & filter box, 115 V single‑phase
+- Velocity fuse preventing uncontrolled descent
+- Safety maintenance strut & toe‑guards
+- Control station (raise, lip extend, emergency stop)
+
+**Functionality**
+On command, blower fills air bag lifting deck; lip deploys as deck reaches stored position. Fuse closes if hose rupture; toe‑guards shield personnel.
+
+**Instructions present**
+Air bag inspection, monthly hinge grease, filter cleaning, bag replacement kit #AD‑456, emergency manual operation, capacity charts, exploded parts.
+
+---
+
+### 19  Champion VR5‑6 Duplex Air Compressor *(source: CHAMPION_VR5-6_O&M_MANUAL.md)*
+**Elaborate description**
+A two‑stage, two‑cylinder duplex reciprocating compressor delivering 17.5 scfm @ 175 psi, aimed at automotive service bays.
+
+**Components / Parts**
+- Cast‑iron pump with intercooler & finned after‑cooler
+- Splash‑lubricated crankcase, sight glass
+- Dual pumps on 80 gal ASME receiver
+- Belt‑drive with adjustable motor slide base
+- Magnetic starter & hour‑meter
+- Pressure switch (145‑175 psi) and safety relief valve
+
+**Functionality**
+Pumps alternate to maintain receiver pressure; intercooler drops discharge temp improving efficiency.
+
+**Instructions present**
+Oil spec ISO‑100, 500 hr oil change, belt tension (1/2 in deflection), head‑bolt re‑torque after 50 hrs, tank drain schedule, parts catalogue.
+
+---
+
+### 20  Coats 5060 Rim‑Clamp® Tire Changer *(source: COATS_5060_O&M_MANUAL.md)*
+**Elaborate description**
+An update to the classic Coats 5050 series, the 5060 adds taller chassis and pneumatic helper arm options for ultra‑low‑profile assemblies.
+
+**Components / Parts**
+- Swing‑arm column & mount head with nylon insert
+- 4‑jaw rim clamp 6–24 in actuated by 90 mm cylinders
+- Bead‑breaker shovel (arm‑mounted)
+- Foot‑pedal valve pack (clamp, turntable, bead‑break)
+- Air waterproof regulator‑lubricator unit
+- Inflation jets & clip‑on chuck with gauge
+- Bead‑press helper arm (optional), bead‑lifting disc
+
+**Functionality**
+Shop air powers jaws and bead‑breaker; 2‑speed electric motor drives table. Helper arm exerts downward force on stiff beads; inflation jets seat bead rapidly.
+
+**Instructions present**
+Air connection spec, jaw cover replacement (#8182787), daily lubrication, inflation safety cage notes, troubleshooting chart (no clamp, table stalls), full exploded parts drawings.
